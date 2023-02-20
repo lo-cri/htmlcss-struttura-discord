@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.lightblue{
+    background-color: lightsteelblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+li{
+    display: inline-block;
+}
+
+.orange{
+    background-color: lightgoldenrodyellow;
+    border: 1px dotted black;
+    padding: 5px;
+    width: 250px;
+    margin: 10px 0;
+
+}
+
+.bigorange{
+    background-color: lightgoldenrodyellow;
+    border: 1px dotted black;
+    padding: 5px;
+    width: 700px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.darkblue{
+    background-color: darkblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.fuchsia{
+    background-color: fuchsia;
+    border: 1px dotted black;
+    width: 600px;
+    padding: 150px;
+    margin: 20px 0;
+}
+
+/*sezione da copiare*/
+.bluepink{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.blue{
+    background-color: lightskyblue;
+    border: 1px dotted black;
+    width: 550px;
+    padding: 150px;
+    margin: 20px 0;
+}
+
+.pink{
+    background-color: pink;
+    border: 1px dotted black;
+    width: 340px;
+    padding: 150px;
+    margin: 20px 0;
+}
+
+.pinkblue{
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.green{
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.verde{
+    background-color: green;
+    border: 1px dotted black;
+    width: 890px;
+    padding: 350px;
+    margin: 20px 0;
+}
+
+.info{
+    background-color: darkslategrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.coral{
+    background-color: lightcoral;
+    border: 1px dotted black;
+    width: 250px;
+    padding: 100px;
+    margin: 20px 0;
+}
+
+.acquamarine{
+    background-color: lightseagreen;
+    border: 1px dotted black;
+    width: 120px;
+    padding: 79px;
+    margin: 20px 0;
+}
+
+.extrainfo{
+    background-color: darkslategrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+hr{
+    border: 1px solid darkgrey;
+}
+
+footer{
+    background-color: darkslategrey;
+    display: flex;
+    justify-content:center;
+}
+
+.logo{
+    background-color: lightgreen;
+    width: 445px;
+    margin: 10px 0;
+}
+
+.signin{
+    background-color: lightgreen;
+    display: flex;
+    justify-content:flex-end;
+    width: 445px;
+    margin: 10px 0;
+}
+
